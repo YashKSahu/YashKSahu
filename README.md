@@ -40,3 +40,7 @@ I'm pursuing a major in Computer Science at IIITDM. Right now, I'm working on bu
 - E-mail: kumarsahuyash007@gmail.com
 
 ### 📚 Looking for my Resume? E-Mail me!
+
+---
+
+<img align="left" alt="Yash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yashksahu&show_icons=true&hide_border=true" />

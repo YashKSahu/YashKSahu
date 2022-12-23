@@ -36,7 +36,7 @@ I'm pursuing a major in Computer Science at IIITDM. Right now, I'm working on bu
 
 - GitHub: https://github.com/YashKSahu
 - LinkedIn: https://www.linkedin.com/in/yashsahu/
-- Site: bitwiseyash.com
+- Site: [bitwiseyash.com](https://bitwiseyash.com/)
 - E-mail: kumarsahuyash007@gmail.com
 
 ### 📚 Looking for my Resume? E-Mail me!

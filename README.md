@@ -1,7 +1,3 @@
-![](y3.png)
-
----
-
 # Hi there 👋
 
 Hi, I'm a Robotics Software Engineer at MaRS.

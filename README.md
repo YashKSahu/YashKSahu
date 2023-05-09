@@ -6,7 +6,6 @@ I'm pursuing a major in Computer Science at IIITDM. Right now, I'm working on bu
 - 🔭 I’m currently working on **Robot Operating System (ROS)**
 - 🌱 I’m currently learning **Computer Science Enginnering** at **IIITDM, KANCHEEPURAM**
 - 👯 I’m looking to collaborate on **Robotics Software Development**
-- 🤔 I’m looking for help with **Autoware.ai, Autoware.auto**
 - 💬 Ask me about **Robotics and Fitness**
 - 📫 How to reach me: **E-Mail Me!!**
 - 😄 Pronouns: he/him
